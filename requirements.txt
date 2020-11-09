@@ -4,4 +4,4 @@ numpy
 sklearn
 keras
 tensorflow
-matplotlib
+matplotlib==3.3.2
