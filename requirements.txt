@@ -1,7 +1,4 @@
-alpha_vantage
+alpha_vantage==2.2.0
 pandas
-numpy
-sklearn==0.0
-keras
 tensorflow
-matplotlib
+matplotlib==3.3.3
